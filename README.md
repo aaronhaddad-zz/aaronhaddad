@@ -1,5 +1,6 @@
 ## Hey 👋, I am Aaron Haddad
-[![Spotify](https://novatorem-sandy-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/lo03ljyftvmtpsasww14lo732) <br />
+[![Spotify](https://novatorem-sandy-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/lo03ljyftvmtpsasww14lo732) 
+![Aaron Hadadd profile banner](/aaron.gif)<br />
 [![Gmail Badge](https://img.shields.io/badge/-contact@aaronhaddad.tech-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@aaronhaddad.tech)](mailto:contact@aaronhaddad.tech) 
 [![Linkedin Badge](https://img.shields.io/badge/-haddadaaron-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haddadaaron/)](https://www.linkedin.com/in/haddadaaron/) [![Github Badge](https://img.shields.io/badge/-aaronhaddad-grey?style=flat&logo=github&logoColor=white&link=https://github.com/aaronhaddad/)](https://www.github.com/aaronhaddad/) [![Twitter Badge](https://img.shields.io/badge/-aaronhaddad_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/aaronhaddad_/)](https://www.twitter.com/aaronhaddad_/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://www.aaronaddad.tech/)](https://www.aaronaddad.tech/) <p align='left'>A 20-year-old computer science student from Tunisia hustling to become a software engineer. <br />
 I don't know everything but I figure everything out! <br />
