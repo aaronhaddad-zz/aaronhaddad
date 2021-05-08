@@ -14,7 +14,7 @@ Play some piano and learning the guitar. <br />
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=aaronhaddad&show_icons=true&include_all_commits=true)](https://github.com/aaronhaddad/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronhaddad&layout=compact)](https://github.com/aaronhaddad/github-readme-stats)
-->
+-->
 
 ### Hi there 👋, I am Aaron Haddad
 #### I don't know everything but I figure everything out!
