@@ -22,7 +22,7 @@ Hi there, i'm [Aaron Haddad](https://aronhaddad.tech/). I consider myself to be 
 I am a computer science student, a Google DSC lead at my university and the CTO of my own startup MokaTech!
 
 
-  <img align="right" alt="GIF" src="https://github.com/aaronhaddad/aaronhaddad/blob/main/life_balance.gif?raw=true" width="400px" height="300px"/>
+  <img align="right" alt="GIF" src="https://github.com/aaronhaddad/aaronhaddad/blob/main/life_balance.gif?raw=true" width="200px" height="150px"/>
   
 - 💼 Any freelance work? do reach, [email](mailto:contact@aaronhaddad.tech) :)
 - 💬 Ask me about anything, i am happy to help;
