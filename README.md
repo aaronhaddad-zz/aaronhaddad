@@ -50,10 +50,11 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-<p float='left'>
-<p>📈 My github stats
+<p float='left'> 
+  <p>📈 My github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaronhaddad&show_icons=true&theme=gotham" alt="aaron stats" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aaronhaddad&show_icons=true&theme=gotham" alt="aaron stats" />
+</p>
 
 <p>
   😝 Some programming humor
