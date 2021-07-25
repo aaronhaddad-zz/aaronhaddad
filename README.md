@@ -49,19 +49,11 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+📈 My github stats      😝 Some programming humor
 
-<p float='left'> 
-  <p>📈 My github stats
+<img src="https://github-readme-stats.vercel.app/api?username=aaronhaddad&show_icons=true&theme=gotham" alt="aaron stats" /> ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+  
 
-  <img src="https://github-readme-stats.vercel.app/api?username=aaronhaddad&show_icons=true&theme=gotham" alt="aaron stats" />
-</p>
-
-<p>
-  😝 Some programming humor
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-</p>
-</p>
 
 
 
