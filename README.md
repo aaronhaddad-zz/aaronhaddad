@@ -51,7 +51,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
  -->
 📈 My github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaronhaddad&show_icons=true&theme=gotham" alt="aaron stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=aaronhaddad&show_icons=true" alt="aaron stats" />
 
 
 
