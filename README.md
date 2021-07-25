@@ -40,7 +40,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aaronhaddad)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/aaronhaddad/aaronhaddad/blob/main/images/stat.svg" alt="Aaron Haddad's Wakatime stats"/>
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
