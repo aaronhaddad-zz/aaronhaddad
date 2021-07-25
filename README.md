@@ -55,8 +55,9 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <img src="https://github-readme-stats.vercel.app/api?username=aaronhaddad&show_icons=true&theme=gotham" alt="aaron stats" />
    
-😝 Some programming humor
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+  😝 Some programming humor
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 
 
