@@ -1,17 +1,18 @@
 ### Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Aaron's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+
+<a href="https://twitter.com/aaronhaddad_">
+  <img align="left" alt="Aaron's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Aaron Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.linkedin.com/in/haddadaaron/">
+  <img align="left" alt="Aaron's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Aaron's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://open.spotify.com/user/lo03ljyftvmtpsasww14lo732">
   <img align="left" alt="Aaron's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
+<a href="https://www.facebook.com/aaronhaddad23">
+  <img align="left" alt="Aaron's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+<br />
 ![](https://visitor-badge.glitch.me/badge?page_id=aaronhaddad.aaronhaddad)
 
 <br />
@@ -50,9 +51,10 @@ I am a computer science student, a Google DSC lead at my university and the CTO 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
  -->
  
- 
+<br />
+<br />
 📈 My github stats
-
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=aaronhaddad&show_icons=true" alt="aaron stats" />
 
 
