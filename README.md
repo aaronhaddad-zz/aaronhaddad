@@ -21,7 +21,7 @@ hi, i'm [Aaron Haddad](https://aronhaddad.tech/), a passionate self-taught full 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/aaronhaddad/aaronhaddad/blob/main/life_balance.gif?raw=true"  />
+  <img align="right" alt="GIF" src="https://github.com/aaronhaddad/aaronhaddad/blob/main/life_balance.gif?raw=true" width="400px" height="300px"/>
   
 - 💼 any freelance work? do reach, [email](mailto:contact@aaronhaddad.tech) :)
 - 💬 ask me about anything, i am happy to help;
