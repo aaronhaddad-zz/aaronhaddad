@@ -12,7 +12,8 @@
 <a href="https://www.facebook.com/aaronhaddad23">
   <img align="left" alt="Aaron's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<br />
+
+
 ![](https://visitor-badge.glitch.me/badge?page_id=aaronhaddad.aaronhaddad)
 
 <br />
@@ -53,7 +54,9 @@ I am a computer science student, a Google DSC lead at my university and the CTO 
  
 <br />
 <br />
+
 📈 My github stats
+
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=aaronhaddad&show_icons=true" alt="aaron stats" />
 
