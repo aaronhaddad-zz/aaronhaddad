@@ -12,7 +12,7 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=aaronhaddad.aaronhaddad)
 
 <br />
 
@@ -21,7 +21,7 @@ hi, i'm [Aaron Haddad](https://aronhaddad.tech/), a passionate self-taught full 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/aaronhaddad/aaronhaddad/life_balance.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/aaronhaddad/aaronhaddad/blob/main/life_balance.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:contact@aaronhaddad.tech) :)
 - 💬 ask me about anything, i am happy to help;
