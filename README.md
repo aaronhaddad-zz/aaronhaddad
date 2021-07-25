@@ -38,7 +38,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **Some of stats:**
+📊 **Some of my stats:**
 <!--START_SECTION:waka-->
 <a href="https://wakatime.com/@aaronhaddad">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@aaronhaddad&compact=True" width="400px"/>
@@ -50,15 +50,17 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
+<p float='left'>
+<p>📈 My github stats
 
-📈 My github stats
+<img src="https://github-readme-stats.vercel.app/api?username=aaronhaddad&show_icons=true&theme=gotham" alt="aaron stats" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaronhaddad&show_icons=true&theme=gotham" alt="aaron stats" />
-
-   
+<p>
   😝 Some programming humor
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+</p>
+</p>
 
 
 
