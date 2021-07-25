@@ -40,8 +40,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@aaronhaddad&compact=True"/>
+<a href="https://wakatime.com/@aaronhaddad">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@aaronhaddad&compact=True" width="400px"/>
 </a>
 <!--END_SECTION:waka-->
 
