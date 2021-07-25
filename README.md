@@ -16,9 +16,9 @@
 
 <br />
 
-Hi there, i'm [Aaron Haddad](https://aronhaddad.tech/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi there, i'm [Aaron Haddad](https://aronhaddad.tech/). I consider myself to be a creative problem solver and a crazy entrepreneur. I try everything, fail and rise again. I believe that you can never know enough yet you can figure everything by constantly acquiring and sharing knowledge because it is the key to progress!
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am a computer science student, a Google DSC lead at my university and the CTO of my own startup MokaTech!
 
 
   <img align="right" alt="GIF" src="https://github.com/aaronhaddad/aaronhaddad/blob/main/life_balance.gif?raw=true" width="400px" height="300px"/>
