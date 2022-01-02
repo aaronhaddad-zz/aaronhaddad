@@ -17,14 +17,14 @@
 
 <br />
 
-Hi there, i'm [Aaron Haddad](https://aronhaddad.tech/). I consider myself to be a creative problem solver and a crazy entrepreneur. I try everything, fail and rise again. I believe that you can never know enough yet you can figure everything by constantly acquiring and sharing knowledge because it is the key to progress!
+Hi there, i'm [Aaron Haddad](https://aronhaddad.me/). I consider myself to be a creative problem solver and a crazy entrepreneur. I try everything, fail and rise again. I believe that you can never know enough yet you can figure everything by constantly acquiring and sharing knowledge because it is the key to progress!
 
 I am a computer science student, a Google DSC lead at my university and the CTO of my own startup MokaTech!
 
 
 <img align="right" alt="GIF" src="https://github.com/aaronhaddad/aaronhaddad/blob/main/life_balance.gif?raw=true" width="400px" height="300px"/>
   
-- 💼 Any freelance work? do reach, [email](mailto:contact@aaronhaddad.tech) :)
+- 💼 Any freelance work? do reach, [email](mailto:aaron.haddad@etudiant-isi.utm.tn) :)
 - 💬 Ask me about anything, i am happy to help;
 
 **Languages and tools:**  
@@ -42,7 +42,7 @@ I am a computer science student, a Google DSC lead at my university and the CTO 
 
 📊 **Some of my stats:**
 <!--START_SECTION:waka-->
-<a href="https://wakatime.com/@aaronhaddad">
+<a href="https://wakatime.com/@aaronhaddad_">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@aaronhaddad&compact=True" width="400px"/>
 </a>
 <!--END_SECTION:waka-->
