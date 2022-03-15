@@ -6,6 +6,6 @@
 [![Instagram badge](https://img.shields.io/badge/aaronhaddad__-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/aaronhaddad_/)](https://instagram.com/aaronhaddad_)
 [![Gmail badge](https://img.shields.io/badge/aaron.haddad@etudiant--isi.utm.tn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aaron.haddad@etudiant-isi.utm.tn)](mailto:aaron.haddad@etudiant-isi.utm.tn)
 
-<img align="right" src="Untitled design.gif">
+<img align="right" src="Untitled design.gif" width="20%">
 
 Welcome to my profile! I'm a student, aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. I am current interning @Wealthsimple, and have previously PM'd @Autodesk, SWE'd @Microsoft, and UX&D consulted @Deloitte. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
