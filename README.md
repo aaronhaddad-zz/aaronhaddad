@@ -1,6 +1,6 @@
 # Hi I'm Aaron 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/haddadaaron?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haddadaaron/)](https://www.linkedin.com/in/haddadaaron/)
+[![Linkedin Badge](https://img.shields.io/badge/haddadaaron-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haddadaaron/)](https://www.linkedin.com/in/haddadaaron/)
 [![Website Badge](https://img.shields.io/badge/aaronhaddad-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://aaronhaddad.me)](https://aaronhaddad.me)
 [![Twitter badge](https://img.shields.io/badge/aaronhaddad_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aaronhaddad_)](https://twitter.com/aaronhaddad_)
 [![Instagram badge](https://img.shields.io/badge/aaronhaddad_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/aaronhaddad_/)](https://instagram.com/aaronhaddad_)
