@@ -1,6 +1,6 @@
 # Hi I'm Aaron 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/haddadaaron-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/haddadaaron/)
+[![Linkedin Badge](https://img.shields.io/badge/haddadaaron-blue?logo=linkedin)](https://www.linkedin.com/in/haddadaaron/)
 [![Website Badge]](https://aaronhaddad.me)
 [![Twitter badge]](https://twitter.com/aaronhaddad_)
 [![Instagram badge]](https://instagram.com/aaongaddad_)
