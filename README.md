@@ -1,4 +1,4 @@
-# Hi there ![visitors](https://visitor-badge.laobi.icu/badge?page_id=github.com/aaronhaddad)! I'm Aaron 👋
+# Hi there ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aaronhaddad.aaronhaddad)! I'm Aaron 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/haddadaaron-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haddadaaron/)](https://www.linkedin.com/in/haddadaaron/)
 [![Website Badge](https://img.shields.io/badge/aaronhaddad.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://aaronhaddad.me)](https://aaronhaddad.me)
