@@ -1,5 +1,7 @@
 # Hi there ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aaronhaddad.aaronhaddad)! I'm Aaron 👋
 
+<img src="https://profile-counter.glitch.me/{aaronhaddad}/count.svg" alt="aaronhaddad :: Visitor's Count" />
+
 [![Linkedin Badge](https://img.shields.io/badge/haddadaaron-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haddadaaron/)](https://www.linkedin.com/in/haddadaaron/)
 [![Website Badge](https://img.shields.io/badge/aaronhaddad.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://aaronhaddad.me)](https://aaronhaddad.me)
 [![Twitter badge](https://img.shields.io/badge/aaronhaddad__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aaronhaddad_)](https://twitter.com/aaronhaddad_)
