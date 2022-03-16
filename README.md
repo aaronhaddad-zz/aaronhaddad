@@ -1,4 +1,4 @@
-# Hi there [](https://komarev.com/ghpvc/?username=aaronhaddad&label=visitor&style=flat-square)! I'm Aaron 👋
+# Hi there ![](https://komarev.com/ghpvc/?username=aaronhaddad&label=visitor&style=flat-square)! I'm Aaron 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/haddadaaron-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haddadaaron/)](https://www.linkedin.com/in/haddadaaron/)
 [![Website Badge](https://img.shields.io/badge/aaronhaddad.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://aaronhaddad.me)](https://aaronhaddad.me)
