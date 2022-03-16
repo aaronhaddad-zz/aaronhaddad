@@ -1,4 +1,4 @@
-# Hi I'm Aaron 👋
+# Hi there! I'm Aaron 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/haddadaaron-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haddadaaron/)](https://www.linkedin.com/in/haddadaaron/)
 [![Website Badge](https://img.shields.io/badge/aaronhaddad.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://aaronhaddad.me)](https://aaronhaddad.me)
@@ -8,4 +8,4 @@
 
 <img align="right" src="Untitled design.gif" width="20%">
 
-Welcome to my profile! I'm a student, aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. I am current interning @Wealthsimple, and have previously PM'd @Autodesk, SWE'd @Microsoft, and UX&D consulted @Deloitte. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
+Welcome to my profile! I'm a computer science student 
